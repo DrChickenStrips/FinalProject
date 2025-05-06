@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: b2667c95ca8dc0f4994a145b9339e33c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Google Dino_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a928dbc6989cb3a4faf4f1777670284d
+      internalID: -805722473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2880
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3d00f515670a94b830fb37817c19bf
+      internalID: 1158209027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_2
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 2880
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7561e066c1047464194f63fcfdba1658
+      internalID: 860258829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_3
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 2880
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f71b8a63c0d23646a4a63bee5c64fd5
+      internalID: -869935767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_4
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 2880
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4992889b5450324eb680fa24ca0e636
+      internalID: 614324965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_5
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 2880
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb5fd87ed2b3ea41807b74cf5b1b171
+      internalID: 1534095205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_6
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 2880
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214e506156363124c8b5da4c657c59c3
+      internalID: 810988501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c4d1b04dc22e347944557daa254381
+      internalID: 596627094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_8
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2400
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e41f8e545c1c83458da639954d5340e
+      internalID: -1699893436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_9
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 2400
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc11cc2f05f25440844539fef1c63f2
+      internalID: -553986494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_10
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 2400
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01088c53d6518a64ca3c0662b6fc125f
+      internalID: 1865125594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_11
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 2400
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0f5194b1076d3488b83ebaf562e04f
+      internalID: -1503506958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_12
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 2400
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9589931d3afa4714bb1566f279c66190
+      internalID: -1240889914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_13
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 2400
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321a3b2a960dd484aa9d4f4e0ea5ba6e
+      internalID: -1875526868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e79b37f90c7520499afd73540f2ecf5
+      internalID: -185898126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_15
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1920
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2985a0197260240a6fc7887f12e9f9
+      internalID: 1092826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_16
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1920
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4609866e6400bf448b965002ebe6839e
+      internalID: -814525484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_17
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1920
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842fdd5723bed8149a8164b129674d84
+      internalID: 1057474605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_18
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1920
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9d4d9a2a742184699e8dfab68c3243
+      internalID: 638988099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_19
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 1920
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44782d88784d29f46a6006f9ef8b72fe
+      internalID: -1550115389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_20
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 1920
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20517956b4898cc49ae1518f98ce3e80
+      internalID: 1175308077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d718877ae5c5734bade2cbe684660d9
+      internalID: 982678981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_22
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1440
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457b1cc018fc4be48b393537716185cf
+      internalID: 1564526194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_23
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1440
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba36fdb963b5c14f8f5fb2e73d7318e
+      internalID: 1929385845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_24
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1440
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f9403041089384683859a0288b773c
+      internalID: -94110863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_25
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1440
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf854868a28c46e4c93580573b985bf9
+      internalID: -898890951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_26
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 1440
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d74e001bc63563409ded173dfaf714f
+      internalID: -1508622224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_27
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 1440
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d3289c009c63542b6e1693320408f7
+      internalID: -1264384145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bce4d5bab19546489fb62a65786a179
+      internalID: 1954221427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_29
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 960
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7ed7064aef68d4a8b95ebc0957d043
+      internalID: 1769186212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_30
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 960
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8465232fbd9e16042bf13d15be60fda6
+      internalID: 1849208522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_31
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 960
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c4aebf915080c468bf9a88aea2276f
+      internalID: 167716532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_32
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 960
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a247f2e94dc6354ab1f4e3f5069f3c6
+      internalID: -428307175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_33
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 960
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f970b1820145fb645a4474fa33b50476
+      internalID: -504681815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_34
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 960
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132f597960b57f549a216f4fff9725ce
+      internalID: 783893601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9f10ff57c8a4248930112c824d0f33
+      internalID: 1194131893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_36
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 480
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ee3e6b5fae35c43a71e841aff20b99
+      internalID: -130667916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_37
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 480
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0432c74dba8f64681f2adbf853fda5
+      internalID: 321638698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_38
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 480
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f56b89e8a345e64d8e2b1998e44e3d7
+      internalID: -176396705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_39
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 480
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382c4c2519af38c4ba929dd159b36a1e
+      internalID: -1028431740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_40
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 480
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279a161705b52a44f8d999e4f3bcebb2
+      internalID: 1552723462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_41
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 480
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb98cd88d9417143beaa5b6bc7b5d9d
+      internalID: -625708811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b5d191165272242b94c09fdab10050
+      internalID: -1072814164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_43
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cdb195d47bc9e41a37bb5cbc4252d4
+      internalID: -1066408619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_44
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 0
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a854e703ab04d44bbfb7a11ab494f76
+      internalID: -234455618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_45
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 0
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6b3bf0e5f0c7c4e8e838f220e52529
+      internalID: -2047133260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_46
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 0
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f96b85b18783b44b21aecd7eb6b77c
+      internalID: 1068918242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Google Dino_47
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 0
+        width: 460
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316d445ee10e5634b99327895ffd4b0d
+      internalID: 614928131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Google Dino_0: -805722473
+      Google Dino_1: 1158209027
+      Google Dino_10: 1865125594
+      Google Dino_11: -1503506958
+      Google Dino_12: -1240889914
+      Google Dino_13: -1875526868
+      Google Dino_14: -185898126
+      Google Dino_15: 1092826
+      Google Dino_16: -814525484
+      Google Dino_17: 1057474605
+      Google Dino_18: 638988099
+      Google Dino_19: -1550115389
+      Google Dino_2: 860258829
+      Google Dino_20: 1175308077
+      Google Dino_21: 982678981
+      Google Dino_22: 1564526194
+      Google Dino_23: 1929385845
+      Google Dino_24: -94110863
+      Google Dino_25: -898890951
+      Google Dino_26: -1508622224
+      Google Dino_27: -1264384145
+      Google Dino_28: 1954221427
+      Google Dino_29: 1769186212
+      Google Dino_3: -869935767
+      Google Dino_30: 1849208522
+      Google Dino_31: 167716532
+      Google Dino_32: -428307175
+      Google Dino_33: -504681815
+      Google Dino_34: 783893601
+      Google Dino_35: 1194131893
+      Google Dino_36: -130667916
+      Google Dino_37: 321638698
+      Google Dino_38: -176396705
+      Google Dino_39: -1028431740
+      Google Dino_4: 614324965
+      Google Dino_40: 1552723462
+      Google Dino_41: -625708811
+      Google Dino_42: -1072814164
+      Google Dino_43: -1066408619
+      Google Dino_44: -234455618
+      Google Dino_45: -2047133260
+      Google Dino_46: 1068918242
+      Google Dino_47: 614928131
+      Google Dino_5: 1534095205
+      Google Dino_6: 810988501
+      Google Dino_7: 596627094
+      Google Dino_8: -1699893436
+      Google Dino_9: -553986494
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
