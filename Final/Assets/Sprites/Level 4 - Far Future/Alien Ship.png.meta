@@ -1,0 +1,1038 @@
+fileFormatVersion: 2
+guid: 1ca4120c8d580d34d8086d6aa3a29c38
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2700
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c90792364d100b4e949db683ec1d6a9
+      internalID: -1961301155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_1
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2700
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389aaf87506b49645aafe0339ea69f4d
+      internalID: 912069370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_2
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 2700
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be99f9956815d7428231e96500a9fbd
+      internalID: -434322657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_3
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 2700
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29eb15d1783f8cd42968bd692fd56158
+      internalID: 1279913005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_4
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 2700
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c39bcd442e44540a645a983fedc13a
+      internalID: 863762826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_5
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2700
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365a8bbf116f469468df41162a2a4a34
+      internalID: 996731034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_6
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 2700
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7933f7f0b1f61148bea492f579d7040
+      internalID: -1997218469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb94433ad552fc641b3e6bb25f253398
+      internalID: 1771781006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_8
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2160
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95e65a215bbe2a4e8e566b4d56227b3
+      internalID: -330377098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_9
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 2160
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bf25f084cc7fe4199423b73f2b727c
+      internalID: 691346050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_10
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 2160
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615fea6dd0baece4f8bb8275dbaf469c
+      internalID: 1946749989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_11
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 2160
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312ffcb99f70d0d4fa08f66c43926499
+      internalID: 1218891889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_12
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2160
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b367185458642974f97a6621fa650194
+      internalID: 934351974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_13
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 2160
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2196f7113db23dd4ba254a1a30736fbf
+      internalID: -1829496971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1576ef73d850642ace80af2972b530
+      internalID: 1965064179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_15
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1620
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57fbd19cbd14df47aa24f337bba5538
+      internalID: -1840977398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_16
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1620
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40a868f697f67a4a90a9fa96067027d
+      internalID: -683291371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_17
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1620
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216ddb4403fef0d4ab699571b8106b35
+      internalID: -1878871293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_18
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1620
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae37506f114fbc4ba5466ed8c46bc24
+      internalID: -532564865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_19
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1620
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf792348a2a4ea4b8824a374e3f71eb
+      internalID: -49440387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_20
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 1620
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003724f347696d340a07812dcf146b39
+      internalID: -1372956536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ae1dd09898e2d4bad50d3bb78c7d81
+      internalID: 211566866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_22
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1080
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde15525ec1a54845a1934e2f101d684
+      internalID: 1410147763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_23
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1080
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728f412f8637f8c44a3867da63b3a943
+      internalID: -778068735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_24
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1080
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc15dab2bc159734dbf40c8cc88f76db
+      internalID: 1223220637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_25
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1080
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d2775aa7f2e5a4ca2e72375c2a3a5b
+      internalID: -1237681004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_26
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1080
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf880e28be939064790186311040c1ab
+      internalID: -1578976003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_27
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 1080
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5f582788caa8941aa6fa6971487853
+      internalID: -1503659160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3738c1506f56541b8b455e07c890f8
+      internalID: 27267618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_29
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 540
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e1294f4592c2944b7ea306a38be211
+      internalID: -459123891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_30
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 540
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61876f5fd097a254e91488ba611b0e52
+      internalID: 1184815939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_31
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 540
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8f41ab139615e4895f8df17097fbc6
+      internalID: -1810687411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_32
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 540
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ab04145949d0c42b95888c42ec3bc4
+      internalID: 168690556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_33
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 540
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f91dbd01075024a8d643bc66ea2d23
+      internalID: -1071200638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_34
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 540
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7992948b4b862a6478e9e1a06288c0eb
+      internalID: -1926079966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfc0cd7dc610134caa7ce95da779b8a
+      internalID: 2062998043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_36
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72485d11d28608d4aa4c1b1b91dd25c6
+      internalID: -233487747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_37
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e178a2d2921e90540ba10157caafb183
+      internalID: 200755867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_38
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 0
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd893b4143b9724dac20b16bdecd22e
+      internalID: 1643238279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_39
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 0
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e4e8ba997032a4398ff14fa6666e1e
+      internalID: -1177714416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_40
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 0
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad6b70424e017144ad6a68cad7dce24
+      internalID: -1482046627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yunus-emre-tufan-alien-ship-attacking_41
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 0
+        width: 408
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3653794c56c04b46b1eb53957bb2113
+      internalID: -4818795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      yunus-emre-tufan-alien-ship-attacking_0: -1961301155
+      yunus-emre-tufan-alien-ship-attacking_1: 912069370
+      yunus-emre-tufan-alien-ship-attacking_10: 1946749989
+      yunus-emre-tufan-alien-ship-attacking_11: 1218891889
+      yunus-emre-tufan-alien-ship-attacking_12: 934351974
+      yunus-emre-tufan-alien-ship-attacking_13: -1829496971
+      yunus-emre-tufan-alien-ship-attacking_14: 1965064179
+      yunus-emre-tufan-alien-ship-attacking_15: -1840977398
+      yunus-emre-tufan-alien-ship-attacking_16: -683291371
+      yunus-emre-tufan-alien-ship-attacking_17: -1878871293
+      yunus-emre-tufan-alien-ship-attacking_18: -532564865
+      yunus-emre-tufan-alien-ship-attacking_19: -49440387
+      yunus-emre-tufan-alien-ship-attacking_2: -434322657
+      yunus-emre-tufan-alien-ship-attacking_20: -1372956536
+      yunus-emre-tufan-alien-ship-attacking_21: 211566866
+      yunus-emre-tufan-alien-ship-attacking_22: 1410147763
+      yunus-emre-tufan-alien-ship-attacking_23: -778068735
+      yunus-emre-tufan-alien-ship-attacking_24: 1223220637
+      yunus-emre-tufan-alien-ship-attacking_25: -1237681004
+      yunus-emre-tufan-alien-ship-attacking_26: -1578976003
+      yunus-emre-tufan-alien-ship-attacking_27: -1503659160
+      yunus-emre-tufan-alien-ship-attacking_28: 27267618
+      yunus-emre-tufan-alien-ship-attacking_29: -459123891
+      yunus-emre-tufan-alien-ship-attacking_3: 1279913005
+      yunus-emre-tufan-alien-ship-attacking_30: 1184815939
+      yunus-emre-tufan-alien-ship-attacking_31: -1810687411
+      yunus-emre-tufan-alien-ship-attacking_32: 168690556
+      yunus-emre-tufan-alien-ship-attacking_33: -1071200638
+      yunus-emre-tufan-alien-ship-attacking_34: -1926079966
+      yunus-emre-tufan-alien-ship-attacking_35: 2062998043
+      yunus-emre-tufan-alien-ship-attacking_36: -233487747
+      yunus-emre-tufan-alien-ship-attacking_37: 200755867
+      yunus-emre-tufan-alien-ship-attacking_38: 1643238279
+      yunus-emre-tufan-alien-ship-attacking_39: -1177714416
+      yunus-emre-tufan-alien-ship-attacking_4: 863762826
+      yunus-emre-tufan-alien-ship-attacking_40: -1482046627
+      yunus-emre-tufan-alien-ship-attacking_41: -4818795
+      yunus-emre-tufan-alien-ship-attacking_5: 996731034
+      yunus-emre-tufan-alien-ship-attacking_6: -1997218469
+      yunus-emre-tufan-alien-ship-attacking_7: 1771781006
+      yunus-emre-tufan-alien-ship-attacking_8: -330377098
+      yunus-emre-tufan-alien-ship-attacking_9: 691346050
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
