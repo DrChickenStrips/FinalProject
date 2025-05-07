@@ -6,10 +6,21 @@ public class Weapon : MonoBehaviour
 {
         public Transform firePoint;
         public GameObject bulletPrefab;
+        public int maxAmmo = 10;
+        private int currentAmmo;
 
+
+    void Start()
+    {
+        currentAmmo = maxAmmo;
+    } 
     // Update is called once per frame
     void Update()
     {
+        if (currentAmmo <= 0)
+        {
+            return;
+        }
         if (Input.GetButtonDown("Fire1"))
         {
             Shoot();
@@ -19,6 +30,8 @@ public class Weapon : MonoBehaviour
 
     void Shoot ()
     {
+        currentAmmo--;
+
         Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
     }
 }  
