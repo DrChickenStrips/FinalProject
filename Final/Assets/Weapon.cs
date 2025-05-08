@@ -7,7 +7,7 @@ public class Weapon : MonoBehaviour
         public Transform firePoint;
         public GameObject bulletPrefab;
         public int maxAmmo = 10;
-        private int currentAmmo;
+        public int currentAmmo;
 
 
     void Start()
@@ -33,5 +33,10 @@ public class Weapon : MonoBehaviour
         currentAmmo--;
 
         Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
+    }
+
+    public void AddAMMO(int val)
+    {
+        currentAmmo = currentAmmo+val;
     }
 }  
