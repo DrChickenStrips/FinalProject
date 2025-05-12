@@ -18,7 +18,7 @@ public class PowerUp : MonoBehaviour
 
     void Pickup(Collider2D player)
     {
-       // Instantiate(pickupEffect, transform.position, transform.rotation);
+       Instantiate(pickupEffect, transform.position, transform.rotation);
         player.GetComponent<Weapon>().AddAMMO(bulVal);
        
 
