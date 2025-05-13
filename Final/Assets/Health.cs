@@ -27,7 +27,7 @@ void OnTriggerEnter2D(Collider2D hitInfo)
         Enemy enemy = hitInfo.GetComponent<Enemy>();
         if (enemy != null)
         {
-            //player.TakeDamage(damage); fix TakeDamage
+            TakeDamage(damage);
         }
     }
 
