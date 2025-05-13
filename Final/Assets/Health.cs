@@ -45,6 +45,7 @@ void OnTriggerEnter2D(Collider2D hitInfo)
     void Die()
     {
         //Instantiate(deathEffect, transform.position, transform.rotation);
-        Destroy(gameObject);
+        //estroy(gameObject);
+        gameObject.SetActive(false);
     }
 }
