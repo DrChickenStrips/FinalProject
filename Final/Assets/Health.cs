@@ -11,16 +11,18 @@ public class Health : MonoBehaviour
     public int maxHealth = 100;
     public GameObject deathEffect;
     public int damage = 40;
-
+public HealthBar myHralthbar;
     // Start is called before the first frame update
     void Start()
     {
         currentHealth = maxHealth;
+        myHralthbar.SetMaxHealth(maxHealth);
     }
 
     public void TakeDamage(int damage)
     {
         currentHealth -= damage;
+        myHralthbar.SetHealth(currentHealth);
     }
 void OnTriggerEnter2D(Collider2D hitInfo)
     {
