@@ -6,9 +6,9 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Raptor run
+  m_Name: Raptor Run
   serializedVersion: 7
-  m_Legacy: 1
+  m_Legacy: 0
   m_Compressed: 0
   m_UseHighQualityCurve: 1
   m_RotationCurves: []
@@ -20,10 +20,10 @@ AnimationClip:
   m_PPtrCurves:
   - serializedVersion: 2
     curve:
-    - time: 0.016666668
+    - time: 0
       value: {fileID: -1366548201, guid: 3c1bdb9dc538b2b44875a2445d7d8dd6, type: 3}
     - time: 0.083333336
-      value: {fileID: -1366548201, guid: 3c1bdb9dc538b2b44875a2445d7d8dd6, type: 3}
+      value: {fileID: -683728845, guid: 3c1bdb9dc538b2b44875a2445d7d8dd6, type: 3}
     - time: 0.16666667
       value: {fileID: 348844121, guid: 3c1bdb9dc538b2b44875a2445d7d8dd6, type: 3}
     - time: 0.25
@@ -43,8 +43,23 @@ AnimationClip:
     m_Center: {x: 0, y: 0, z: 0}
     m_Extent: {x: 0, y: 0, z: 0}
   m_ClipBindingConstant:
-    genericBindings: []
-    pptrCurveMapping: []
+    genericBindings:
+    - serializedVersion: 2
+      path: 0
+      attribute: 0
+      script: {fileID: 0}
+      typeID: 212
+      customType: 23
+      isPPtrCurve: 1
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
+    pptrCurveMapping:
+    - {fileID: -1366548201, guid: 3c1bdb9dc538b2b44875a2445d7d8dd6, type: 3}
+    - {fileID: -683728845, guid: 3c1bdb9dc538b2b44875a2445d7d8dd6, type: 3}
+    - {fileID: 348844121, guid: 3c1bdb9dc538b2b44875a2445d7d8dd6, type: 3}
+    - {fileID: -1092757188, guid: 3c1bdb9dc538b2b44875a2445d7d8dd6, type: 3}
+    - {fileID: 337974855, guid: 3c1bdb9dc538b2b44875a2445d7d8dd6, type: 3}
+    - {fileID: 337974855, guid: 3c1bdb9dc538b2b44875a2445d7d8dd6, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
